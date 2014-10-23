@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_fragment_column_width">180dp</dimen>
+    <dimen name="grid_fragment_vertical_spacing">5dp</dimen>
+    <dimen name="grid_fragment_horizontal_spacing">5dp</dimen>
+    <dimen name="grid_fragment_padding">5dp</dimen>
+    <dimen name="grid_empty_text_size">18sp</dimen>
+</resources>
